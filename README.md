@@ -5,4 +5,4 @@ Things I learned:
 1) how to model and structure your app.
 2) file handling in c++.
 3) use of different data structures.
-4) handling execptions
+4) exception handling
