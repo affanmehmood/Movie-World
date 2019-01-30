@@ -1,5 +1,5 @@
-# Movie-World
-A system in wich you have different search functins ,data handling, costomers records etc.
+# DVD Rental System
+A system in which you have different search functins, data handling, costomers, TV/Movie records etc.
 
 Things I learned:
 1) how to model and structure your app.
